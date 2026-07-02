@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Concentric Target Rings -->
+    <!-- Blue outer ring (using Scorify electric blue) -->
+    <path
+        android:fillColor="#3366FF"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+    
+    <!-- Red mid ring (using Scorify laser red) -->
+    <path
+        android:fillColor="#FF3333"
+        android:pathData="M54,54m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+    
+    <!-- Yellow center ring (using Scorify neon gold) -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,54m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0" />
+
+    <!-- Center bulls-eye dot -->
+    <path
+        android:fillColor="#121212"
+        android:pathData="M54,54m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+
+    <!-- Sleek Tech Crosshairs -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M54,10 L54,20 M54,88 L54,98 M10,54 L20,54 M88,54 L98,54" />
+
+    <!-- Golden Cyber Tech Accent Arrow -->
+    <path
+        android:strokeColor="#FFD700"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M24,84 L40,68" />
+    <path
+        android:strokeColor="#FFD700"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M21,80 L21,87 L28,87" />
+    
+</vector>

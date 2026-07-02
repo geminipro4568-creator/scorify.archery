@@ -1,0 +1,6 @@
+{
+  "name": "Scorify",
+  "description": "Scorify is a bold, athletic, high-performance Archery Scoring & Analytics application with custom visual target faces, color-coded scoreboards, and multi-sheet data export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
